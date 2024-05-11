@@ -7,18 +7,18 @@ Input your steps and screenshots in your README file on GitHub.
 
 ## Solution
 1. Create AWS S3 bucket
-![Creation of S3 bucket](Screenhots/s3bucket.png)
+![Creation of S3 bucket](Screenshots/s3bucket.png)
 ![S3](Screenshots/s3.PNG)
 2. Upload html file
-![Upload html file](Screenhots/6.PNG)
+![Upload html file](Screenshots/6.PNG)
 3. Allow public access on bucket
-![Public access to bucket](Screenhots/5.PNG)
+![Public access to bucket](Screenshots/5.PNG)
 4. Enable static hosting for the bucket and set index path.
-![Static hosting](Screenhots/7.PNG)
+![Static hosting](Screenshots/7.PNG)
 5. Create a cloudfront distribution.
-![Cloudfront Distribution](Screenhots/8.PNG)
+![Cloudfront Distribution](Screenshots/8.PNG)
 6. Set S3 bucket as origin domain and create origin access control settings. Copy the generated policy to the s3 bucket
-![Origin Configuration](Screenhots/9.PNG)
+![Origin Configuration](Screenshots/9.PNG)
 <br>
 ```{
     "Version": "2008-10-17",
