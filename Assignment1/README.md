@@ -19,7 +19,7 @@ Input your steps and screenshots in your README file on GitHub.
 ![Cloudfront Distribution](Screenshots/8.PNG)
 6. Set S3 bucket as origin domain and create origin access control settings. Copy the generated policy to the s3 bucket
 ![Origin Configuration](Screenshots/9.PNG)
-<br>
+
 ~~~
 {
     "Version": "2008-10-17",
@@ -42,5 +42,6 @@ Input your steps and screenshots in your README file on GitHub.
     ]
 }
 ~~~
+
 7. Access the static webpage with the cloudfront domain.
 ![Origin Configuration](Screenhots/3.PNG)
