@@ -44,4 +44,4 @@ Input your steps and screenshots in your README file on GitHub.
 ~~~
 
 7. Access the static webpage with the cloudfront domain.
-![Origin Configuration](Screenhots/3.PNG)
+![Origin Configuration](Screenshots/3.PNG)
